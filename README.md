@@ -282,24 +282,4 @@ Set proper file permissions
 
 Update CORS settings for production domain
 
-📄 License
-
-This project is created as part of an internship application.
-
-👤 Author
-
-Rebecca Charles
-
-GitHub: Rebeccacharles
-
-Email: rebeccacharles2306@gmail.com
-
-🙏 Acknowledgments
-
-Bootstrap for UI components
-
-jQuery for AJAX functionality
-
-PHP community for excellent documentation
-
 
