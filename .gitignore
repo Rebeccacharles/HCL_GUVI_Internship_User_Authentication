@@ -1,0 +1,43 @@
+# PHP
+vendor/
+composer.lock
+*.log
+
+# Configuration files with sensitive data
+php/config.php
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+tmp/
+
+# Environment files
+.env
+.env.local
+
+# Database
+*.sql
+*.db
+*.sqlite
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
