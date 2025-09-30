@@ -1,0 +1,25 @@
+{
+    "name": "internship/user-management-system",
+    "description": "User Authentication and Profile Management System",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "predis/predis": "^1.1",
+        "mongodb/mongodb": "^1.12",
+        "ext-mongodb": "*",
+        "ext-json": "*",
+        "ext-mysqli": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "php/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
